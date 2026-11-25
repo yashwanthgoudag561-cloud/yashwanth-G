@@ -1,2 +1,3 @@
 # yashwanth-G
- test.c
+ MY FIRST GIT CODE
+Auther - yashwanth G
